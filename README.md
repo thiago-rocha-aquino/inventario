@@ -4,12 +4,12 @@ Sistema de gerenciamento de estoque desenvolvido em **C puro**, demonstrando dom
 
 ## Tecnologias Utilizadas
 
-- **C** - Linguagem de programação
-- **GCC** - Compilador GNU C
-- **Make** - Build automation
+- **C** 
+- **GCC** 
+- **Make** 
 - **File I/O** - Persistência de dados binários
-- **Structs** - Estruturas de dados personalizadas
-- **Pointers** - Manipulação de memória
+- **Structs** -
+- **Pointers** 
 
 ## Funcionalidades
 
